@@ -1,0 +1,12 @@
+{
+  "name": "dice_app",
+  "displayName": "dice_app",
+  "expo": {
+    "name": "dice_app",
+    "slug": "dice_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
